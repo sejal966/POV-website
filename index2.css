@@ -1124,7 +1124,7 @@ body{
     }
     .img {
       max-width: 90%;
-      max-height: 450px; /* Adjust image width for very small screens */
+      max-height: 400px; /* Adjust image width for very small screens */
     }
 
     .scrolling-text{
@@ -1356,7 +1356,7 @@ body{
   @media screen and (max-width: 395px) {
     .img {
       max-width: 90%;
-      max-height: 400px; /* Adjust image width for very small screens */
+      max-height: 520px; /* Adjust image width for very small screens */
     }
     p{
       font-size: 22px;
@@ -1375,7 +1375,7 @@ body{
        width: 45px;
     }
     .facebook {
-      top: 18rem;
+      top: 20rem;
       right: 7rem;
     }
     .facebookimg{
@@ -1384,7 +1384,7 @@ body{
     }
   
     .instagram {
-      top: 16rem;
+      top: 18rem;
       right: 5rem;
     }
     .instagramimg{
@@ -1394,7 +1394,7 @@ body{
 
   
     .youtube {
-      top:18rem;
+      top:20rem;
       /* bottom: 1rem; */
       right: 3rem;
     }
@@ -1404,7 +1404,7 @@ body{
     }
   
     .light {
-      top: 18rem;
+      top: 20rem;
       left: 7rem;
     }
     .lightimg{
@@ -1413,7 +1413,7 @@ body{
     }
   
     .camera {
-      top: 16rem;
+      top: 18rem;
       left: 0.5rem;
     }
 
@@ -1423,7 +1423,7 @@ body{
     }
   
     .google {
-      top: 16rem;
+      top: 18rem;
       right: 0.5rem;
     }
 
@@ -1433,7 +1433,7 @@ body{
     }
   
     .smoke {
-      top: 10rem;
+      top: 13rem;
       left: -180%;
     }
    
@@ -1441,7 +1441,7 @@ body{
     
   
     .mic {
-      top: 16rem;
+      top: 18rem;
       left: 5rem;
     }
 
@@ -1451,7 +1451,7 @@ body{
     }
   
     .action {
-      top: 18rem;
+      top: 20rem;
       left: 3rem;
     }
 
