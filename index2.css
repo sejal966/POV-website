@@ -1356,7 +1356,7 @@ body{
   @media screen and (max-width: 395px) {
     .img {
       max-width: 90%;
-      max-height: 400px; /* Adjust image width for very small screens */
+      max-height: 450px; /* Adjust image width for very small screens */
     }
     p{
       font-size: 22px;
